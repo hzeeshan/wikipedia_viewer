@@ -1,0 +1,72 @@
+
+        body,html {
+            
+            height: 100%;
+            background-image: url("wiki.jpg");
+            
+            background-position: center;
+            background-size: cover;
+            
+        }
+        
+         
+        .container {
+            
+            text-align: center;
+            color: white;
+            padding-top: 200px;
+        }
+        
+        #search {
+            
+            margin-top: 25px;
+        }
+        
+        #top-heading {
+            
+            padding-bottom: 10px;
+            
+        }
+        
+        ul {
+            
+            text-align: left;
+        }
+        
+        a {
+            
+            font-size: 25px;
+            color: black;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            
+            color: #3366ff;
+        }
+        
+        footer {
+            
+            
+            color: white;
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            padding: 1rem;
+            background-color: black;
+            text-align: center;
+        }
+        
+  #wiki-logo {
+    
+      margin-left: 5px;
+      margin-top: 3px;
+      border-radius: 100%;
+}
+
+p {
+    
+    color: #333;
+}
+        
